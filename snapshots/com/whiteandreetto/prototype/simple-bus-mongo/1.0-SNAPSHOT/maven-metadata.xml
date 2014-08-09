@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.whiteandreetto.prototype</groupId>
+  <artifactId>simple-bus-mongo</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140809174522</lastUpdated>
+  </versioning>
+</metadata>
