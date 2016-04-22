@@ -1,3 +1,3 @@
-![alt text](http://whiteandreetto.com/wp-content/uploads/2015/06/WHITEANDREETTO.CONSULTING.png?ref=github "White Andreetto Consulting")
+![alt text](https://lh3.googleusercontent.com/iY-OIuZOPPiqc9Otl8acXAzyZsQEKxhQJ8RGAQQhscnyOG95A9umvR4AvhluLBGlV-6hEulv9j8UiskGkeZNQx0HwMxWctQEmQFXmlaScGYfWG0M3W6lXeMOTOHowHNBBx_ND1rZdMLNOVdwHXwnNbzvB57-s6ceAbhBrUfPdxQlFAHbryYrSYgjQi-Lnpd1R0GDiWcUUB3QzSSaN63fRJhiJ8VRPMaIGFUQR2sEYUB-Yv4o7QZPR7Z6ZJDy0Ov6dst3LQAlYXZVLNOZS205VOUc7aP0fy9pOF4vEdrEf60zt6k23eMt_5-mKv9NpTm8Sj3vVpSSmy17Xl2iEwOG2Jl9lXwPwN3T3-5kGflLIiBNwWNrqC5U7INR8TxxdNQC6oEY-uNX9qHoImt6YDLNOl1Zd4uHMNHbmGID8O77lR3UKVYJWetqlztyNryUXD94L2Jcy22qTSVNSfRC1YLKwT8WIRhzf1-QZ9emVZ1metXr9Y_LHMau2SqIugkmUg4m6IzDwIli5zB5GfbqrwP73NwHC-DtG1rIqqUtopG_53oMsaURybpNLVc41OOhE5AvEB-0=w1439-h199-no?ref=github "© Andreetto Consulting")
 =======================
 # Public Maven repository
